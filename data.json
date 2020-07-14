@@ -1,19 +1,19 @@
 {
-  "bleu":{
+  "Bleu":{
     "name":"Bleu",
     "x":5303,
     "y":19003,
     "width":514,
     "height":840
   },
-  "blanc":{
+  "Blanc":{
     "name":"Blanc",
     "x":5833,
     "y":19003,
     "width":510,
     "height":840
   },
-  "rouge":{
+  "Rouge":{
     "name":"Rouge",
     "x":6370,
     "y":19003,
