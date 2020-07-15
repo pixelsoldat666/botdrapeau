@@ -13,6 +13,13 @@
     "width":510,
     "height":840
   },
+  "drapeau":{
+    "name":"drapeau",
+    "x":75,
+    "y":-9999,
+    "width":510,
+    "height":840
+  },
   "rouge":{
     "name":"rouge",
     "x":6370,
