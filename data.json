@@ -20,6 +20,14 @@
     "width":510,
     "height":840
   },
+   
+  "bleuent":{
+    "name":"bleuent",
+    "x":980,
+    "y":-11377,
+    "width":510,
+    "height":840
+  },
   "rouge":{
     "name":"rouge",
     "x":6370,
