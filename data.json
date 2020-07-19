@@ -6,13 +6,6 @@
     "width":1600,
     "height":156
   },
-  "blanc":{
-    "name":"blanc",
-    "x":5833,
-    "y":18900,
-    "width":510,
-    "height":840
-  },
   "drapeau":{
     "name":"drapeau",
     "x":75,
@@ -35,12 +28,5 @@
     "y":19000,
     "width":1599,
     "height":1107
-  },
-  "rouge":{
-    "name":"rouge",
-    "x":6370,
-    "y":19003,
-    "width":516,
-    "height":840
   }
 }
