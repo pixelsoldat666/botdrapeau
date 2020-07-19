@@ -1,8 +1,8 @@
 {
-  "bleu":{
-    "name":"bleu",
-    "x":5303,
-    "y":19003,
+  "devise":{
+    "name":"devise",
+    "x":5300,
+    "y":20107,
     "width":514,
     "height":840
   },
