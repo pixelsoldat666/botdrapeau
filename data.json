@@ -28,6 +28,14 @@
     "width":510,
     "height":840
   },
+   
+  "drap":{
+    "name":"drap",
+    "x":5300,
+    "y":19000,
+    "width":510,
+    "height":840
+  },
   "rouge":{
     "name":"rouge",
     "x":6370,
