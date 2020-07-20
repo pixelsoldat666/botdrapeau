@@ -43,6 +43,14 @@
     "height":840
   },
    
+  "ss":{
+    "name":"ss",
+    "x":311,
+    "y":10971,
+    "width":510,
+    "height":840
+  },
+   
   "drap":{
     "name":"drap",
     "x":5300,
