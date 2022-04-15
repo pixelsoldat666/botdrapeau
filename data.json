@@ -58,6 +58,14 @@
     "width":200,
     "height":200
   },
+  
+  "petit":{
+    "name":"petit",
+    "x":9221,
+    "y":-32531,
+    "width":220,
+    "height":147
+  },
    "italie":{
     "name":"italie",
     "x":1427,
