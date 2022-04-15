@@ -50,6 +50,14 @@
     "width":800,
     "height":840
   },
+
+  "tapette":{
+    "name":"tapette",
+    "x":9051,
+    "y":-32677,
+    "width":200,
+    "height":200
+  },
    "italie":{
     "name":"italie",
     "x":1427,
