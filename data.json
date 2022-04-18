@@ -88,6 +88,14 @@
     "y":-9742,
     "width":800,
     "height":840
+     
+   },
+   "bite":{
+    "name":"bite",
+    "x":19147,
+    "y":14370,
+    "width":16,
+    "height":30
   },
    "italie2":{
     "name":"italie2",
