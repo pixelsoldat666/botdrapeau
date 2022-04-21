@@ -105,11 +105,11 @@
     "height":840
   },
    
-  "drap4":{
-    "name":"drap4",
+  "test":{
+    "name":"test",
     "x":5300,
     "y":18999,
     "width":533,
-    "height":856
+    "height":1104
   }
 }
