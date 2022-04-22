@@ -97,6 +97,13 @@
     "width":16,
     "height":30
   },
+   "rouge":{
+    "name":"rouge",
+    "x":6365,
+    "y":19000,
+    "width":535,
+    "height":1106
+  },
    "italie2":{
     "name":"italie2",
     "x":2104,
