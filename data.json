@@ -50,7 +50,15 @@
     "width":800,
     "height":840
   },
-
+ 
+  "bbbb":{
+    "name":"bbbb",
+    "x":1368,
+    "y":-11181,
+    "width":800,
+    "height":840
+  },
+  
   "tapette":{
     "name":"tapette",
     "x":9051,
